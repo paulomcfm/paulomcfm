@@ -1,7 +1,6 @@
-
 <h1 align="center">Hello there, I'm Paulo Martin 👋</h1>
 Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself.
-
+<
 👨‍🎓 Studying Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
 ##
@@ -32,6 +31,6 @@ Welcome to my GitHub page! Here you can learn about my activities and what I've 
 ##
 👨‍💻 GitHub Stats: 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulomcfm&theme=vision-friendly-dark&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomcfm&show_icons=true&theme=great-gatsby)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomcfm&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomcfm&layout=compact&theme=great-gatsby)
