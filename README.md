@@ -1,6 +1,7 @@
+
 <h1 align="center">Hello there, I'm Paulo Martin 👋</h1>
 Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself.
-<
+
 👨‍🎓 Studying Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
 ##
