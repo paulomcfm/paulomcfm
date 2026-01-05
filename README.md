@@ -7,7 +7,7 @@
 
 Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself professionally.
 
-- [cite_start]👨‍🎓 Graduated in **Computer Science** from [**FIPP - Unoeste**](https://unoeste.br/fipp/) [cite: 44, 45]
+- 👨‍🎓 Graduated in **Computer Science** from [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 - 🚀 Currently working as a **Full Stack Developer** at **SocialZap Marketing**
 - 🏆 Academic Excellence: Multiple honors for top GPA and 3rd place in Hackathon 2024
 
