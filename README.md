@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm Paulo Martin 👋</h1>
 Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself.
 
-[cite_start]👨‍🎓 **Bachelor of Computer Science** graduated from [**FIPP - Unoeste**](https://unoeste.br/fipp/) 
-[cite_start]🚀 Currently working as a Full Stack Developer at SocialZap Marketing[cite: 12, 20]
+👨‍🎓 **Bachelor of Computer Science** graduated from [**FIPP - Unoeste**](https://unoeste.br/fipp/) 
+🚀 Currently working as a Full Stack Developer at SocialZap Marketing
 
 ## 🖥️ Technologies I have experience with: 
 
