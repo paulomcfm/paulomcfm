@@ -34,19 +34,6 @@ Welcome to my GitHub page! Here you can learn about my activities and what I've 
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulomcfm&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomcfm&theme=great-gatsby&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomcfm&layout=compact&theme=great-gatsby&hide=html,css&hide_border=true" />
-</p>
-
----
-
 ### ✉️ Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/paulomcfmotta/" target="_blank">
