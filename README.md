@@ -1,34 +1,61 @@
 <h1 align="center">Hello there, I'm Paulo Martin 👋</h1>
-Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself.
 
-👨‍🎓 **Bachelor of Computer Science** graduated from [**FIPP - Unoeste**](https://unoeste.br/fipp/) 
-🚀 Currently working as a Full Stack Developer at SocialZap Marketing
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bachelor%20of%20Computer%20Science-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-green?style=flat-square" />
+</p>
 
-## 🖥️ Technologies I have experience with: 
+Welcome to my GitHub page! Here you can learn about my activities and what I've been doing to improve myself professionally.
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div>
+- [cite_start]👨‍🎓 Graduated in **Computer Science** from [**FIPP - Unoeste**](https://unoeste.br/fipp/) [cite: 44, 45]
+- 🚀 Currently working as a **Full Stack Developer** at **SocialZap Marketing**
+- 🏆 Academic Excellence: Multiple honors for top GPA and 3rd place in Hackathon 2024
 
-## ✉️ You can reach me at:
-<div> 
-  <a href="https://www.linkedin.com/in/paulomcfmotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:paulomcfm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/fmottapaulo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+---
 
-## 👨‍💻 GitHub Stats: 
+### 🖥️ Technologies & Tools
 
+**Frontend & Mobile**
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomcfm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomcfm&layout=compact&theme=great-gatsby&hide_langs=html,css" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulomcfm&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomcfm&theme=great-gatsby&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomcfm&layout=compact&theme=great-gatsby&hide=html,css&hide_border=true" />
+</p>
+
+---
+
+### ✉️ Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulomcfmotta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:paulomcfm@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/fmottapaulo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
